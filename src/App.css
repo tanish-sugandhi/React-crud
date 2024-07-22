@@ -1,0 +1,38 @@
+
+.card{
+  height: 400px; 
+  box-shadow: 2px 4px 8px;
+  margin-top:50px;
+  overflow: auto;
+}
+.card-img{
+  height: 200px;
+}
+.btn{
+  margin-left: 220px;
+}
+.show{
+        height:500px;
+        width:25rem;
+       padding:50px;
+       margin-left: 70px;
+}
+.text{
+  height:300px;
+   width:400px;
+   margin-right: 100px;
+}
+.color-back{
+  margin:5px;
+  height:100%;
+  width:100%;
+}
+.d-flex
+{
+   height:300px;
+   width:100px;
+   margin-right: 100px;
+}
+.field{
+  width:50px;
+}
